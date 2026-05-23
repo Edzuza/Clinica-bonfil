@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Médica Bonfil",
+  "description": "Una landing page de alta precisión institucional médica para la Clínica Médica Bonfil en Hidalgo. Ofrece navegación por especialidades, agendamiento interactivo y espacio para profesionales, con animaciones fluidas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
